@@ -78,3 +78,19 @@ Full Stack Development Resources
 Soft Skills Development Resources
 ### Contributing
 We welcome contributions to improve this training program. Please submit a pull request or open an issue to discuss your ideas.
+
+
+# Conditions
+To successfully complete the program and receive its benefits, participants must meet the following conditions:
+
+Maintain at least 80% attendance.
+Complete a minimum of 3 projects.
+Contribute to open source projects.
+# Benefits
+Participants who fulfill the program requirements will receive the following benefits:
+
+Opportunity for a full-time job offer.
+Comprehensive placement guidance.
+Certificate of completion.
+# Stipend
+Stipend based on performance throughout the program.
