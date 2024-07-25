@@ -1,4 +1,4 @@
-## 3-Month Training Program
+# 3-Month Training Program
 ### Overview
 Welcome to the 3-Month Training Program! This comprehensive program is designed to equip you with the skills needed to excel in the IT industry. The program covers three major areas:
 
@@ -7,7 +7,7 @@ Welcome to the 3-Month Training Program! This comprehensive program is designed 
 ### Soft Skills Development
 By the end of this program, you will have the foundational knowledge, practical experience, and soft skills required to secure a job in the IT sector.
 
-### Program Structure
+## Program Structure
 ## Month 1: DSA Basics
 ### Week 1: Introduction to DSA
 What are Data Structures and Algorithms?
