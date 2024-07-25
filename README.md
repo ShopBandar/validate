@@ -81,16 +81,16 @@ We welcome contributions to improve this training program. Please submit a pull 
 
 
 # Conditions
-To successfully complete the program and receive its benefits, participants must meet the following conditions:
+To successfully complete the program and receive its benefits, participants must meet the following conditions:<br/>
 
-Maintain at least 80% attendance.
-Complete a minimum of 3 projects.
-Contribute to open source projects.
+Maintain at least 80% attendance.<br/>
+Complete a minimum of 3 projects.<br/>
+Contribute to open source projects.<br/>
 # Benefits
-Participants who fulfill the program requirements will receive the following benefits:
+Participants who fulfill the program requirements will receive the following benefits:<br/>
 
-Opportunity for a full-time job offer.
-Comprehensive placement guidance.
-Certificate of completion.
+Opportunity for a full-time job offer. <br/>
+Comprehensive placement guidance.<br/>
+Certificate of completion.<br/>
 # Stipend
 Stipend based on performance throughout the program.
